@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\FABRI LLARA\\Downloads\\RESOLVIENDOELEXAMENT3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAD6458A-4CE5-4A8F-8177-167CA59FDFA1}|RESOLVIENDOELEXAMENT3\\RESOLVIENDOELEXAMENT3.csproj|c:\\users\\fabri llara\\downloads\\resolviendoelexament3\\resolviendoelexament3\\resolviendoelexament3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DAD6458A-4CE5-4A8F-8177-167CA59FDFA1}|RESOLVIENDOELEXAMENT3\\RESOLVIENDOELEXAMENT3.csproj|solutionrelative:resolviendoelexament3\\resolviendoelexament3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAD6458A-4CE5-4A8F-8177-167CA59FDFA1}|RESOLVIENDOELEXAMENT3\\RESOLVIENDOELEXAMENT3.csproj|c:\\users\\fabri llara\\downloads\\resolviendoelexament3\\resolviendoelexament3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAD6458A-4CE5-4A8F-8177-167CA59FDFA1}|RESOLVIENDOELEXAMENT3\\RESOLVIENDOELEXAMENT3.csproj|solutionrelative:resolviendoelexament3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD6458A-4CE5-4A8F-8177-167CA59FDFA1}|RESOLVIENDOELEXAMENT3\\RESOLVIENDOELEXAMENT3.csproj|c:\\users\\fabri llara\\downloads\\resolviendoelexament3\\resolviendoelexament3\\resolviendoelexament3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAD6458A-4CE5-4A8F-8177-167CA59FDFA1}|RESOLVIENDOELEXAMENT3\\RESOLVIENDOELEXAMENT3.csproj|solutionrelative:resolviendoelexament3\\resolviendoelexament3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAD6458A-4CE5-4A8F-8177-167CA59FDFA1}|RESOLVIENDOELEXAMENT3\\RESOLVIENDOELEXAMENT3.csproj|c:\\users\\fabri llara\\downloads\\resolviendoelexament3\\resolviendoelexament3\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,8 +38,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RESOLVIENDOELEXAMENT3",
+              "DocumentIndex": 1,
+              "Title": "RESOLVIENDOELEXAMENT3.csproj",
               "DocumentMoniker": "C:\\Users\\FABRI LLARA\\Downloads\\RESOLVIENDOELEXAMENT3\\RESOLVIENDOELEXAMENT3\\RESOLVIENDOELEXAMENT3.csproj",
               "RelativeDocumentMoniker": "RESOLVIENDOELEXAMENT3\\RESOLVIENDOELEXAMENT3.csproj",
               "ToolTip": "C:\\Users\\FABRI LLARA\\Downloads\\RESOLVIENDOELEXAMENT3\\RESOLVIENDOELEXAMENT3\\RESOLVIENDOELEXAMENT3.csproj",
@@ -59,8 +59,7 @@
               "RelativeToolTip": "RESOLVIENDOELEXAMENT3\\CitaUtil.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T02:37:12.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T02:37:12.868Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "RESOLVIENDOELEXAMENT3\\Estudiante.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T07:27:47.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T07:27:47.823Z"
             },
             {
               "$type": "Document",
@@ -85,18 +83,17 @@
               "RelativeToolTip": "RESOLVIENDOELEXAMENT3\\Cita.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T07:27:58.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T07:27:58.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\FABRI LLARA\\Downloads\\RESOLVIENDOELEXAMENT3\\RESOLVIENDOELEXAMENT3\\Program.cs",
               "RelativeDocumentMoniker": "RESOLVIENDOELEXAMENT3\\Program.cs",
               "ToolTip": "C:\\Users\\FABRI LLARA\\Downloads\\RESOLVIENDOELEXAMENT3\\RESOLVIENDOELEXAMENT3\\Program.cs",
               "RelativeToolTip": "RESOLVIENDOELEXAMENT3\\Program.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAAAGMAAAAQAAAA",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAwKMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T07:08:59.748Z",
               "EditorCaption": ""

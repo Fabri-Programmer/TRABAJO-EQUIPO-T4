@@ -168,6 +168,7 @@ do
 Console.ForegroundColor =ConsoleColor.Blue;
 Console.WriteLine("\nGracias por usar el programa by:fabri ");
 //cambio
+//cambio nicolas
 
 
 
